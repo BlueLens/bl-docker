@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 export ORG="bluelens"
-export IMAGE="python:3.6"
+export IMAGE="tensorflowpython:3.6"
 
 docker login
 
